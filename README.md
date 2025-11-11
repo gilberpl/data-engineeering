@@ -10,7 +10,8 @@ This workflow includes:
  * Rockets: https://api.spacexdata.com/v4/rockets
  * Payloads: https://api.spacexdata.com/v4/payloads
  * Launches: https://api.spacexdata.com/v4/launches
-Documentation of the SpaceX API can be found @ https://github.com/r-spacex/SpaceX-API/tree/master/docs
+
+# Documentation of the SpaceX API can be found @ https://github.com/r-spacex/SpaceX-API/tree/master/docs
 
 # Database Schema (SQLite)
 <img width="348" height="389" alt="image" src="https://github.com/user-attachments/assets/53fa5d99-8127-4ad3-ad3a-e1fbae81655d" />
