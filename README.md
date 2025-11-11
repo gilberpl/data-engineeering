@@ -11,12 +11,13 @@ This workflow includes:
  * Payloads: https://api.spacexdata.com/v4/payloads
  * Launches: https://api.spacexdata.com/v4/launches
 
-# Documentation of the SpaceX API can be found @ https://github.com/r-spacex/SpaceX-API/tree/master/docs
+Documentation of the SpaceX API can be found @ [SpaceX-API GitHub](https://github.com/r-spacex/SpaceX-API/tree/master/docs)
+
+# Run notebook 
+* [analysis.ipynb](https://github.com/gilberpl/data-engineeering/blob/main/analysis.ipynb) 
 
 # Database Schema (SQLite)
 <img width="348" height="389" alt="image" src="https://github.com/user-attachments/assets/53fa5d99-8127-4ad3-ad3a-e1fbae81655d" />
-
-# Run notebook [analysis.ipynb](https://github.com/gilberpl/data-engineeering/blob/main/analysis.ipynb) 
 
 # Notes
 * Missing payload masses (NULL) are ignored in averages
