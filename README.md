@@ -23,6 +23,7 @@ Documentation of the SpaceX API can be found @ [SpaceX-API GitHub](https://githu
 * Missing payload masses (NULL) are ignored in averages
 * SQLite foreign keys were not created for simplicity
 * Data is pulled from the live SpaceX API so results may change over time
+* This data only goes back to 2022
 
 # Requirements
 * Python 3
