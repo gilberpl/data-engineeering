@@ -7,7 +7,7 @@ This workflow includes:
 3. Performaing analyses in SQL and Pandas
 
 # Why SpaceX?
-My father and I have watched SpaceX launches online for years. We even had the opportunity to watch one of the rockets re-enter orbit and land at Port Canaveral Florida which was incredible to watch. 
+My father and I have watched SpaceX launches online for years. We even had the opportunity to watch one of the rockets re-enter orbit and land at Port Canaveral Florida which was incredible to watch. I figured this was a good starter dataset for myself to pull and run a few simple SQLite commands from.
 
 # Data Sources
  * Rockets: https://api.spacexdata.com/v4/rockets
